@@ -38,21 +38,28 @@ with open('response_of_search_songs.json', 'w') as f:
     
     
 ######################################################################################3
-## [2] response of the song id
-api_path = '/songs/3039923'
+## [2] response of the song id and artist id
+api_path = ['/songs/3039923', '/artists/1421']
 
-song_url = base_url  +api_path
+song_url = base_url  +api_path[0]
 song_response = requests.get(song_url, headers=headers)
 text = song_response.json()
 '''
 with open('response_of_song_id.json', 'w') as f:
     json.dump(text, f)
 '''
-
+artist_url = base_url  +api_path[1]
+artist_response = requests.get(artist_url, headers=headers)
+text = artist_response.json()
+'''
+with open('response_of_artist_id.json', 'w') as f:
+    json.dump(text, f)
+'''
 ######################################################################################3
-## [2] response of the song id
+## [3] response of the song url path if lyrics_state is complete
 
-path = text['response']['song']['path']
+#path = text['response']['song']['path']
+path = '/Kendrick-lamar-humble-lyrics'
 lyric_url = 'http://genius.com' + text['response']['song']['path']
 response = requests.get(lyric_url)
 
@@ -61,6 +68,9 @@ soup = BeautifulSoup(response.text, 'html.parser')
 with open('response_of_lyric_path.html', 'wb') as f:
     f.write(soup.prettify("utf-8"))
 '''
+
+######################################################################################3
+## [4] extract lyrcis
 class_of_lyrics = re.compile("lyrics|Lyrics__Root")
 lyrics = soup.find('div', class_=class_of_lyrics).get_text()
 '''

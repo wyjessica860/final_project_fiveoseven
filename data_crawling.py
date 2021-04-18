@@ -14,26 +14,85 @@ base_url = 'http://api.genius.com'
 headers ={
     'Authorization': 'Bearer ' +  GENIUS_API_KEY
 }
+CACHE_FILENAME = "ccache.json"
+CACHE_DICT = {}
+
+def open_cache():
+    ''' Opens the cache file if it exists and loads the JSON into
+    the CACHE_DICT dictionary.
+    if the cache file doesn't exist, creates a new cache dictionary
+    
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    The opened cache: dict
+    '''
+    try:
+        cache_file = open(CACHE_FILENAME, 'r')
+        cache_contents = cache_file.read()
+        cache_dict = json.loads(cache_contents)
+        cache_file.close()
+    except:
+        cache_dict = {}
+    return cache_dict
+def save_cache(cache_dict):
+    ''' Saves the current state of the cache to disk
+    
+    Parameters
+    ----------
+    cache_dict: dict
+        The dictionary to save
+    
+    Returns
+    -------
+    None
+    '''
+    dumped_json_cache = json.dumps(cache_dict)
+    fw = open(CACHE_FILENAME,"w")
+    fw.write(dumped_json_cache)
+    fw.close()   
 
 def search_response(keywords):
-
     search_url = base_url+f'/search?q={keywords}' 
-
-    search_response = requests.get(search_url,headers=headers)
-    text = search_response.json()
+    cache_dict = open_cache()
+    try:
+        text = cache_dict[search_url]
+    except:
+        search_response = requests.get(search_url,headers=headers)
+        text = search_response.json()
+        cache_dict[search_url] = text
+        save_cache(cache_dict)
+    
+    
     return text
 def id_response(api_path):
 
     song_url = base_url + api_path
-    search_response = requests.get(song_url,headers=headers)
-    text = search_response.json()
+    cache_dict = open_cache()
+    try:
+        text = cache_dict[song_url]
+    except:
+        search_response = requests.get(song_url,headers=headers)
+        text = search_response.json()
+        cache_dict[song_url] = text
+        save_cache(cache_dict)
     return text
 def lyric_url_response(lyric_path):
 
     lyric_url = 'http://genius.com' + lyric_path
-    response = requests.get(lyric_url)
-
-    soup = BeautifulSoup(response.text, 'html.parser')
+    cache_dict = open_cache()
+    try:
+        text = cache_dict[lyric_url]
+    except:
+        response = requests.get(lyric_url)
+        text = response.text
+        cache_dict[lyric_url] = text
+        save_cache(cache_dict)
+    
+    soup = BeautifulSoup(text, 'html.parser')
     class_of_lyrics = re.compile("lyrics|Lyrics__Root")
     lyrics = soup.find('div', class_=class_of_lyrics).get_text()
     return lyrics
