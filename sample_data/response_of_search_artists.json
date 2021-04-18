@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "sections": [
+            {
+                "type": "artist",
+                "hits": [
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1421",
+                            "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+                            "id": 1421,
+                            "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+                            "index_character": "k",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Kendrick Lamar",
+                            "slug": "Kendrick-lamar",
+                            "url": "https://genius.com/artists/Kendrick-lamar",
+                            "iq": 45956
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1403568",
+                            "header_image_url": "https://images.genius.com/b5de44b4cd4074c83261950a18c866aa.1000x1000x1.jpg",
+                            "id": 1403568,
+                            "image_url": "https://images.genius.com/b5de44b4cd4074c83261950a18c866aa.1000x1000x1.jpg",
+                            "index_character": "j",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jay Rock, Kendrick Lamar, Future & James Blake",
+                            "slug": "Jay-rock-kendrick-lamar-future-and-james-blake",
+                            "url": "https://genius.com/artists/Jay-rock-kendrick-lamar-future-and-james-blake"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1307337",
+                            "header_image_url": "https://images.genius.com/cfb1966a2096663ad1079441645d80a0.1000x665x1.jpg",
+                            "id": 1307337,
+                            "image_url": "https://images.genius.com/224c2150828825b2d1f39f8d9d8d4354.776x776x1.png",
+                            "index_character": "k",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kendrick Lamar & SZA",
+                            "slug": "Kendrick-lamar-and-sza",
+                            "url": "https://genius.com/artists/Kendrick-lamar-and-sza"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1357228",
+                            "header_image_url": "https://images.genius.com/fe7a8964df7ef217e0ce428572590d89.620x359x1.jpg",
+                            "id": 1357228,
+                            "image_url": "https://images.genius.com/ac02689b2add53f448d87ec65e7bbdca.1000x1000x1.jpg",
+                            "index_character": "w",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Weeknd & Kendrick Lamar",
+                            "slug": "The-weeknd-and-kendrick-lamar",
+                            "url": "https://genius.com/artists/The-weeknd-and-kendrick-lamar"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1357230",
+                            "header_image_url": "https://images.genius.com/35e82f37b8ff22326eb8b6ae7003a810.900x595x1.jpg",
+                            "id": 1357230,
+                            "image_url": "https://images.genius.com/efb2971aafbd718761cafe4f6508d106.1000x1000x1.jpg",
+                            "index_character": "k",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kendrick Lamar & Travis Scott",
+                            "slug": "Kendrick-lamar-and-travis-scott",
+                            "url": "https://genius.com/artists/Kendrick-lamar-and-travis-scott"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/570394",
+                            "header_image_url": "https://images.genius.com/0b09eb4fb41aa5bd56f453910edc20fd.1000x500x1.jpg",
+                            "id": 570394,
+                            "image_url": "https://images.genius.com/8d7bbaee62992924e6fe1d3a36bb791d.870x870x1.jpg",
+                            "index_character": "j",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "J. Cole & Kendrick Lamar",
+                            "slug": "J-cole-and-kendrick-lamar",
+                            "url": "https://genius.com/artists/J-cole-and-kendrick-lamar"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1282772",
+                            "header_image_url": "https://images.genius.com/00b0b41dd67fe2b82e6501d61914f3b1.590x590x1.jpg",
+                            "id": 1282772,
+                            "image_url": "https://images.genius.com/00b0b41dd67fe2b82e6501d61914f3b1.590x590x1.jpg",
+                            "index_character": "n",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "N.E.R.D & Kendrick Lamar",
+                            "slug": "Nerd-and-kendrick-lamar",
+                            "url": "https://genius.com/artists/Nerd-and-kendrick-lamar"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1887426",
+                            "header_image_url": "https://images.genius.com/afb65d337c2417a4d29e2ca72ae6f19e.650x650x1.jpg",
+                            "id": 1887426,
+                            "image_url": "https://images.genius.com/afb65d337c2417a4d29e2ca72ae6f19e.650x650x1.jpg",
+                            "index_character": "b",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9 & Kendrick Lamar",
+                            "slug": "Beyonce-and-kendrick-lamar",
+                            "url": "https://genius.com/artists/Beyonce-and-kendrick-lamar"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1740565",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1618329465",
+                            "id": 1740565,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1618329465",
+                            "index_character": "m",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Mike WiLL Made-It, Pharrell & Kendrick Lamar",
+                            "slug": "Mike-will-made-it-pharrell-and-kendrick-lamar",
+                            "url": "https://genius.com/artists/Mike-will-made-it-pharrell-and-kendrick-lamar"
+                        }
+                    },
+                    {
+                        "highlights": [],
+                        "index": "artist",
+                        "type": "artist",
+                        "result": {
+                            "_type": "artist",
+                            "api_path": "/artists/1282902",
+                            "header_image_url": "https://images.genius.com/40e184607b90e11dd0d8a1af554b8427.314x314x1.jpg",
+                            "id": 1282902,
+                            "image_url": "https://images.genius.com/40e184607b90e11dd0d8a1af554b8427.314x314x1.jpg",
+                            "index_character": "n",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "N.E.R.D, Kendrick Lamar & MIA",
+                            "slug": "Nerd-kendrick-lamar-and-mia",
+                            "url": "https://genius.com/artists/Nerd-kendrick-lamar-and-mia"
+                        }
+                    }
+                ]
+            }
+        ],
+        "next_page": 2
+    }
+}

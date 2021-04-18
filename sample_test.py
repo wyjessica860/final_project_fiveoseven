@@ -21,18 +21,24 @@ headers ={
 }
 ######################################################################################3
 ## [1] response of a searching keywords
-song_instr = 'Kendrick Lamar'
-artist_instr = 'save me' 
+song_instr = 'save me'
+artist_instr = 'Kendrick Lamar' 
+params = {'q':artist_instr}
 search_url = base_url+f'/search?q={song_instr}' 
 
 search_response = requests.get(search_url,headers=headers)
 text = search_response.json()
-'''
-with open('response_of_search.json', 'w') as f:
-    json.dump(text, f)
 with open('response_of_search_songs.json', 'w') as f:
     json.dump(text, f)
-'''
+
+search_url = 'https://genius.com/api/search/artist'
+search_response = requests.get(search_url,params=params)
+text = search_response.json()
+
+with open('response_of_search_artists.json', 'w') as f:
+    json.dump(text, f)
+
+
 
 
     
