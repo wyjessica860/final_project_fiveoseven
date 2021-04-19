@@ -34,7 +34,7 @@ class song():
                 continue                   
     def get_lyrics(self):
         if self.lyrics_state == 'complete':
-            self.lyrics = lyric_url_response('/Kendrick-lamar-humble-lyrics')
+            self.lyrics = lyric_url_response(self.lyrics_path)
 
 
 if __name__ == "__main__":
