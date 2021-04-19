@@ -1,1 +1,418 @@
-{"meta": {"status": 200}, "response": {"hits": [{"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 5, "api_path": "/songs/3151455", "full_title": "Save Me by\u00a0XXXTENTACION", "header_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png", "header_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", "id": 3151455, "lyrics_owner_id": 4237728, "lyrics_state": "complete", "path": "/Xxxtentacion-save-me-lyrics", "pyongs_count": 201, "song_art_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png", "song_art_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 0, "concurrents": 2, "hot": false, "pageviews": 1175056}, "title": "Save Me", "title_with_featured": "Save Me", "url": "https://genius.com/Xxxtentacion-save-me-lyrics", "primary_artist": {"api_path": "/artists/396565", "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg", "id": 396565, "image_url": "https://images.genius.com/f72572986d8187cf35f0fc9f9d06afb2.900x900x1.jpg", "is_meme_verified": false, "is_verified": true, "name": "XXXTENTACION", "url": "https://genius.com/artists/Xxxtentacion", "iq": 359}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 5, "api_path": "/songs/3113990", "full_title": "Save Me by\u00a0Meek\u00a0Mill", "header_image_thumbnail_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.300x300x1.jpg", "header_image_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.750x750x1.jpg", "id": 3113990, "lyrics_owner_id": 54639, "lyrics_state": "complete", "path": "/Meek-mill-save-me-lyrics", "pyongs_count": 12, "song_art_image_thumbnail_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.300x300x1.jpg", "song_art_image_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.750x750x1.jpg", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 0, "hot": false, "pageviews": 293115}, "title": "Save Me", "title_with_featured": "Save Me", "url": "https://genius.com/Meek-mill-save-me-lyrics", "primary_artist": {"api_path": "/artists/1319", "header_image_url": "https://images.genius.com/970b10079e25b736971f7810c98ab751.1000x210x1.png", "id": 1319, "image_url": "https://images.genius.com/244fc5c6945dfee6376303a3bef287c4.320x320x1.jpg", "is_meme_verified": true, "is_verified": true, "name": "Meek Mill", "url": "https://genius.com/artists/Meek-mill", "iq": 4508}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 1, "api_path": "/songs/3853827", "full_title": "BTS - Save ME (English Translation) by\u00a0Genius\u00a0English Translations", "header_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png", "header_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png", "id": 3853827, "lyrics_owner_id": 4650044, "lyrics_state": "complete", "path": "/Genius-english-translations-bts-save-me-english-translation-lyrics", "pyongs_count": 8, "song_art_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png", "song_art_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 1, "hot": false, "pageviews": 267558}, "title": "BTS - Save ME (English Translation)", "title_with_featured": "BTS - Save ME (English Translation)", "url": "https://genius.com/Genius-english-translations-bts-save-me-english-translation-lyrics", "primary_artist": {"api_path": "/artists/196943", "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png", "id": 196943, "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png", "is_meme_verified": false, "is_verified": false, "name": "Genius English Translations", "url": "https://genius.com/artists/Genius-english-translations"}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 7, "api_path": "/songs/2990372", "full_title": "Nobody Can Save Me by\u00a0Linkin\u00a0Park", "header_image_thumbnail_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.300x300x1.png", "header_image_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png", "id": 2990372, "lyrics_owner_id": 1215397, "lyrics_state": "complete", "path": "/Linkin-park-nobody-can-save-me-lyrics", "pyongs_count": 44, "song_art_image_thumbnail_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.300x300x1.png", "song_art_image_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 3, "hot": false, "pageviews": 217187}, "title": "Nobody Can Save Me", "title_with_featured": "Nobody Can Save Me", "url": "https://genius.com/Linkin-park-nobody-can-save-me-lyrics", "primary_artist": {"api_path": "/artists/1581", "header_image_url": "https://images.genius.com/d0aa7a07a7213a80ca95d9da4a053fa0.1000x509x1.jpg", "id": 1581, "image_url": "https://images.genius.com/a865aac7693c39977b9b402dc364908e.1000x1000x1.jpg", "is_meme_verified": false, "is_verified": true, "name": "Linkin Park", "url": "https://genius.com/artists/Linkin-park", "iq": 1732}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 2, "api_path": "/songs/3853853", "full_title": "BTS - Save Me (Romanized) by\u00a0Genius\u00a0Romanizations", "header_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png", "header_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png", "id": 3853853, "lyrics_owner_id": 4650044, "lyrics_state": "complete", "path": "/Genius-romanizations-bts-save-me-romanized-lyrics", "pyongs_count": 12, "song_art_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png", "song_art_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 2, "concurrents": 2, "hot": false, "pageviews": 194479}, "title": "BTS - Save Me (Romanized)", "title_with_featured": "BTS - Save Me (Romanized)", "url": "https://genius.com/Genius-romanizations-bts-save-me-romanized-lyrics", "primary_artist": {"api_path": "/artists/1507735", "header_image_url": "https://images.genius.com/d1bd81b4e1111bb99768ade045b4046a.1000x495x1.png", "id": 1507735, "image_url": "https://images.genius.com/46745a9c2abdf8c1ce02db009ecfd82f.999x999x1.png", "is_meme_verified": false, "is_verified": false, "name": "Genius Romanizations", "url": "https://genius.com/artists/Genius-romanizations"}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 7, "api_path": "/songs/2475150", "full_title": "Save ME by\u00a0BTS", "header_image_thumbnail_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.300x300x1.jpg", "header_image_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.1000x1000x1.jpg", "id": 2475150, "lyrics_owner_id": 3300657, "lyrics_state": "complete", "path": "/Bts-save-me-lyrics", "pyongs_count": 25, "song_art_image_thumbnail_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.300x300x1.jpg", "song_art_image_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.1000x1000x1.jpg", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 0, "hot": false, "pageviews": 151670}, "title": "Save ME", "title_with_featured": "Save ME", "url": "https://genius.com/Bts-save-me-lyrics", "primary_artist": {"api_path": "/artists/70113", "header_image_url": "https://images.genius.com/a90c0f215f64b9a0340ca4578d46a8f5.1000x333x1.jpg", "id": 70113, "image_url": "https://images.genius.com/dfe064edf213915717ca0a24fb2b91af.1000x1000x1.jpg", "is_meme_verified": false, "is_verified": false, "name": "BTS", "url": "https://genius.com/artists/Bts"}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 2, "api_path": "/songs/2079", "full_title": "Save Me by\u00a0Nicki\u00a0Minaj", "header_image_thumbnail_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.300x300x1.png", "header_image_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.1000x1000x1.png", "id": 2079, "lyrics_owner_id": 1677, "lyrics_state": "complete", "path": "/Nicki-minaj-save-me-lyrics", "pyongs_count": 24, "song_art_image_thumbnail_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.300x300x1.png", "song_art_image_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.1000x1000x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 0, "hot": false, "pageviews": 109172}, "title": "Save Me", "title_with_featured": "Save Me", "url": "https://genius.com/Nicki-minaj-save-me-lyrics", "primary_artist": {"api_path": "/artists/92", "header_image_url": "https://images.genius.com/ab2a85c825e8e602ff228a210a218473.913x498x1.png", "id": 92, "image_url": "https://images.genius.com/be1eda80c5e637a4f1450fa68408f3a2.1000x1000x1.jpg", "is_meme_verified": true, "is_verified": true, "name": "Nicki Minaj", "url": "https://genius.com/artists/Nicki-minaj", "iq": 3405}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 6, "api_path": "/songs/2949512", "full_title": "Save Me by\u00a0Yaprak\u00a0Asimov (Ft.\u00a0XXXTENTACION)", "header_image_thumbnail_url": "https://images.genius.com/319f204042ef3305e9350a6389e83d4b.300x300x1.jpg", "header_image_url": "https://images.genius.com/319f204042ef3305e9350a6389e83d4b.548x548x1.jpg", "id": 2949512, "lyrics_owner_id": 4108990, "lyrics_state": "complete", "path": "/Yaprak-asimov-save-me-lyrics", "pyongs_count": 23, "song_art_image_thumbnail_url": "https://images.genius.com/e34a044d92f1b1dc692d4c7abaafed53.300x300x1.jpg", "song_art_image_url": "https://images.genius.com/e34a044d92f1b1dc692d4c7abaafed53.500x500x1.jpg", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 0, "hot": false, "pageviews": 106388}, "title": "Save Me", "title_with_featured": "Save Me (Ft.\u00a0XXXTENTACION)", "url": "https://genius.com/Yaprak-asimov-save-me-lyrics", "primary_artist": {"api_path": "/artists/608100", "header_image_url": "https://images.genius.com/e1e5f9bb70322e17aae6f447cd2346b6.640x640x1.jpg", "id": 608100, "image_url": "https://images.genius.com/d066a48800d67060b5a2ba8f52a829f9.640x640x1.jpg", "is_meme_verified": false, "is_verified": true, "name": "Yaprak Asimov", "url": "https://genius.com/artists/Yaprak-asimov", "iq": 404}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 9, "api_path": "/songs/367130", "full_title": "Save Me by\u00a0Chief\u00a0Keef", "header_image_thumbnail_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.300x300x1.png", "header_image_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.600x600x1.png", "id": 367130, "lyrics_owner_id": 88938, "lyrics_state": "complete", "path": "/Chief-keef-save-me-lyrics", "pyongs_count": 46, "song_art_image_thumbnail_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.300x300x1.png", "song_art_image_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.600x600x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 6, "hot": false, "pageviews": 95978}, "title": "Save Me", "title_with_featured": "Save Me", "url": "https://genius.com/Chief-keef-save-me-lyrics", "primary_artist": {"api_path": "/artists/16808", "header_image_url": "https://images.genius.com/4021ba198d32951f29a747ea92c3d57f.1000x333x1.jpg", "id": 16808, "image_url": "https://images.genius.com/b1b5a054c30c329a209daef471c5fff2.1000x1000x1.jpg", "is_meme_verified": true, "is_verified": true, "name": "Chief Keef", "url": "https://genius.com/artists/Chief-keef", "iq": 1953}}}, {"highlights": [], "index": "song", "type": "song", "result": {"annotation_count": 3, "api_path": "/songs/3871400", "full_title": "Long Gone (Save Me from This Hell) by\u00a0$UICIDEBOY$", "header_image_thumbnail_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.300x300x1.png", "header_image_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.1000x1000x1.png", "id": 3871400, "lyrics_owner_id": 6566659, "lyrics_state": "complete", "path": "/Uicideboy-long-gone-save-me-from-this-hell-lyrics", "pyongs_count": 16, "song_art_image_thumbnail_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.300x300x1.png", "song_art_image_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.1000x1000x1.png", "song_art_primary_color": null, "song_art_secondary_color": null, "song_art_text_color": null, "stats": {"unreviewed_annotations": 1, "hot": false, "pageviews": 93744}, "title": "Long Gone (Save Me from This Hell)", "title_with_featured": "Long Gone (Save Me from This Hell)", "url": "https://genius.com/Uicideboy-long-gone-save-me-from-this-hell-lyrics", "primary_artist": {"api_path": "/artists/213444", "header_image_url": "https://images.genius.com/2aafdcccc204842e26a115b2a8b1d31b.1000x333x1.jpg", "id": 213444, "image_url": "https://images.genius.com/c06bc0169c9ad572fb8da185233db7f9.999x999x1.jpg", "is_meme_verified": false, "is_verified": true, "name": "$UICIDEBOY$", "url": "https://genius.com/artists/Uicideboy", "iq": 63552}}}]}}
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "hits": [
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 5,
+                    "api_path": "/songs/3151455",
+                    "full_title": "Save Me by\u00a0XXXTENTACION",
+                    "header_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+                    "id": 3151455,
+                    "lyrics_owner_id": 4237728,
+                    "lyrics_state": "complete",
+                    "path": "/Xxxtentacion-save-me-lyrics",
+                    "pyongs_count": 201,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 1175056
+                    },
+                    "title": "Save Me",
+                    "title_with_featured": "Save Me",
+                    "url": "https://genius.com/Xxxtentacion-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/396565",
+                        "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg",
+                        "id": 396565,
+                        "image_url": "https://images.genius.com/f72572986d8187cf35f0fc9f9d06afb2.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "XXXTENTACION",
+                        "url": "https://genius.com/artists/Xxxtentacion",
+                        "iq": 359
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 5,
+                    "api_path": "/songs/3113990",
+                    "full_title": "Save Me by\u00a0Meek\u00a0Mill",
+                    "header_image_thumbnail_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.750x750x1.jpg",
+                    "id": 3113990,
+                    "lyrics_owner_id": 54639,
+                    "lyrics_state": "complete",
+                    "path": "/Meek-mill-save-me-lyrics",
+                    "pyongs_count": 12,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a513718d0dc82b4832976bebe77ef0af.750x750x1.jpg",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 293115
+                    },
+                    "title": "Save Me",
+                    "title_with_featured": "Save Me",
+                    "url": "https://genius.com/Meek-mill-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/1319",
+                        "header_image_url": "https://images.genius.com/970b10079e25b736971f7810c98ab751.1000x210x1.png",
+                        "id": 1319,
+                        "image_url": "https://images.genius.com/244fc5c6945dfee6376303a3bef287c4.320x320x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Meek Mill",
+                        "url": "https://genius.com/artists/Meek-mill",
+                        "iq": 4508
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 1,
+                    "api_path": "/songs/3853827",
+                    "full_title": "BTS - Save ME (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png",
+                    "id": 3853827,
+                    "lyrics_owner_id": 4650044,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-bts-save-me-english-translation-lyrics",
+                    "pyongs_count": 8,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 267558
+                    },
+                    "title": "BTS - Save ME (English Translation)",
+                    "title_with_featured": "BTS - Save ME (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-bts-save-me-english-translation-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 7,
+                    "api_path": "/songs/2990372",
+                    "full_title": "Nobody Can Save Me by\u00a0Linkin\u00a0Park",
+                    "header_image_thumbnail_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png",
+                    "id": 2990372,
+                    "lyrics_owner_id": 1215397,
+                    "lyrics_state": "complete",
+                    "path": "/Linkin-park-nobody-can-save-me-lyrics",
+                    "pyongs_count": 44,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false,
+                        "pageviews": 217187
+                    },
+                    "title": "Nobody Can Save Me",
+                    "title_with_featured": "Nobody Can Save Me",
+                    "url": "https://genius.com/Linkin-park-nobody-can-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/1581",
+                        "header_image_url": "https://images.genius.com/d0aa7a07a7213a80ca95d9da4a053fa0.1000x509x1.jpg",
+                        "id": 1581,
+                        "image_url": "https://images.genius.com/a865aac7693c39977b9b402dc364908e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Linkin Park",
+                        "url": "https://genius.com/artists/Linkin-park",
+                        "iq": 1732
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 2,
+                    "api_path": "/songs/3853853",
+                    "full_title": "BTS - Save Me (Romanized) by\u00a0Genius\u00a0Romanizations",
+                    "header_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png",
+                    "id": 3853853,
+                    "lyrics_owner_id": 4650044,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-romanizations-bts-save-me-romanized-lyrics",
+                    "pyongs_count": 12,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4968e6741eb8c64c096546bf09a23741.977x977x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 194479
+                    },
+                    "title": "BTS - Save Me (Romanized)",
+                    "title_with_featured": "BTS - Save Me (Romanized)",
+                    "url": "https://genius.com/Genius-romanizations-bts-save-me-romanized-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/1507735",
+                        "header_image_url": "https://images.genius.com/d1bd81b4e1111bb99768ade045b4046a.1000x495x1.png",
+                        "id": 1507735,
+                        "image_url": "https://images.genius.com/46745a9c2abdf8c1ce02db009ecfd82f.999x999x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Romanizations",
+                        "url": "https://genius.com/artists/Genius-romanizations"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 7,
+                    "api_path": "/songs/2475150",
+                    "full_title": "Save ME by\u00a0BTS",
+                    "header_image_thumbnail_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.1000x1000x1.jpg",
+                    "id": 2475150,
+                    "lyrics_owner_id": 3300657,
+                    "lyrics_state": "complete",
+                    "path": "/Bts-save-me-lyrics",
+                    "pyongs_count": 25,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7f0c8aadd28d54f1cbceaf9de8d06c99.1000x1000x1.jpg",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 151670
+                    },
+                    "title": "Save ME",
+                    "title_with_featured": "Save ME",
+                    "url": "https://genius.com/Bts-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/70113",
+                        "header_image_url": "https://images.genius.com/a90c0f215f64b9a0340ca4578d46a8f5.1000x333x1.jpg",
+                        "id": 70113,
+                        "image_url": "https://images.genius.com/dfe064edf213915717ca0a24fb2b91af.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BTS",
+                        "url": "https://genius.com/artists/Bts"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 2,
+                    "api_path": "/songs/2079",
+                    "full_title": "Save Me by\u00a0Nicki\u00a0Minaj",
+                    "header_image_thumbnail_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.1000x1000x1.png",
+                    "id": 2079,
+                    "lyrics_owner_id": 1677,
+                    "lyrics_state": "complete",
+                    "path": "/Nicki-minaj-save-me-lyrics",
+                    "pyongs_count": 24,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.1000x1000x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 109172
+                    },
+                    "title": "Save Me",
+                    "title_with_featured": "Save Me",
+                    "url": "https://genius.com/Nicki-minaj-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/92",
+                        "header_image_url": "https://images.genius.com/ab2a85c825e8e602ff228a210a218473.913x498x1.png",
+                        "id": 92,
+                        "image_url": "https://images.genius.com/be1eda80c5e637a4f1450fa68408f3a2.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Nicki Minaj",
+                        "url": "https://genius.com/artists/Nicki-minaj",
+                        "iq": 3405
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 6,
+                    "api_path": "/songs/2949512",
+                    "full_title": "Save Me by\u00a0Yaprak\u00a0Asimov (Ft.\u00a0XXXTENTACION)",
+                    "header_image_thumbnail_url": "https://images.genius.com/319f204042ef3305e9350a6389e83d4b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/319f204042ef3305e9350a6389e83d4b.548x548x1.jpg",
+                    "id": 2949512,
+                    "lyrics_owner_id": 4108990,
+                    "lyrics_state": "complete",
+                    "path": "/Yaprak-asimov-save-me-lyrics",
+                    "pyongs_count": 23,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e34a044d92f1b1dc692d4c7abaafed53.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e34a044d92f1b1dc692d4c7abaafed53.500x500x1.jpg",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 106388
+                    },
+                    "title": "Save Me",
+                    "title_with_featured": "Save Me (Ft.\u00a0XXXTENTACION)",
+                    "url": "https://genius.com/Yaprak-asimov-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/608100",
+                        "header_image_url": "https://images.genius.com/e1e5f9bb70322e17aae6f447cd2346b6.640x640x1.jpg",
+                        "id": 608100,
+                        "image_url": "https://images.genius.com/d066a48800d67060b5a2ba8f52a829f9.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Yaprak Asimov",
+                        "url": "https://genius.com/artists/Yaprak-asimov",
+                        "iq": 404
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 9,
+                    "api_path": "/songs/367130",
+                    "full_title": "Save Me by\u00a0Chief\u00a0Keef",
+                    "header_image_thumbnail_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.600x600x1.png",
+                    "id": 367130,
+                    "lyrics_owner_id": 88938,
+                    "lyrics_state": "complete",
+                    "path": "/Chief-keef-save-me-lyrics",
+                    "pyongs_count": 46,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ef467036591b5dffcfdbc9dc0c19193a.600x600x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 6,
+                        "hot": false,
+                        "pageviews": 95978
+                    },
+                    "title": "Save Me",
+                    "title_with_featured": "Save Me",
+                    "url": "https://genius.com/Chief-keef-save-me-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/16808",
+                        "header_image_url": "https://images.genius.com/4021ba198d32951f29a747ea92c3d57f.1000x333x1.jpg",
+                        "id": 16808,
+                        "image_url": "https://images.genius.com/b1b5a054c30c329a209daef471c5fff2.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Chief Keef",
+                        "url": "https://genius.com/artists/Chief-keef",
+                        "iq": 1953
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 3,
+                    "api_path": "/songs/3871400",
+                    "full_title": "Long Gone (Save Me from This Hell) by\u00a0$UICIDEBOY$",
+                    "header_image_thumbnail_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.1000x1000x1.png",
+                    "id": 3871400,
+                    "lyrics_owner_id": 6566659,
+                    "lyrics_state": "complete",
+                    "path": "/Uicideboy-long-gone-save-me-from-this-hell-lyrics",
+                    "pyongs_count": 16,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/54919a5808730abda8ec44a4fbc8a2cb.1000x1000x1.png",
+                    "song_art_primary_color": null,
+                    "song_art_secondary_color": null,
+                    "song_art_text_color": null,
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 93744
+                    },
+                    "title": "Long Gone (Save Me from This Hell)",
+                    "title_with_featured": "Long Gone (Save Me from This Hell)",
+                    "url": "https://genius.com/Uicideboy-long-gone-save-me-from-this-hell-lyrics",
+                    "primary_artist": {
+                        "api_path": "/artists/213444",
+                        "header_image_url": "https://images.genius.com/2aafdcccc204842e26a115b2a8b1d31b.1000x333x1.jpg",
+                        "id": 213444,
+                        "image_url": "https://images.genius.com/c06bc0169c9ad572fb8da185233db7f9.999x999x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "$UICIDEBOY$",
+                        "url": "https://genius.com/artists/Uicideboy",
+                        "iq": 63552
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -67,7 +67,7 @@ def search_response(keywords,category = 'song'):
     
     cache_dict = open_cache()
     try:
-        text = cache_dict[search_url]
+        text = cache_dict[search_url+params['q']]
     except:
         if category == 'artist':
             search_response = requests.get(search_url,params = params)
@@ -81,7 +81,7 @@ def search_response(keywords,category = 'song'):
     return text
 def id_response(api_path):
 
-    song_url = base_url + api_path
+    song_url = base_url['song'] + api_path
     cache_dict = open_cache()
     try:
         text = cache_dict[song_url]
@@ -109,8 +109,17 @@ def lyric_url_response(lyric_path):
     return lyrics
 
 def get_artist_id(text, num = 0):
-    return text['response']['hits'][0]['id']
 
+    
+    return text['response']['sections'][0]['hits'][num]['result']['id']
+def get_song_id(text, num = 0):
+    return text['response']['hits'][num]['result']['id']
+def get_artist_api_path(text, num = 0):
+
+    
+    return text['response']['sections'][0]['hits'][num]['result']['api_path']
+def get_song_api_path(text, num = 0):
+    return text['response']['hits'][num]['result']['api_path']
 if __name__ == "__main__":
     print(search_response('Kendrick Lamar','artist'))
     print(search_response('Unstopable','song'))
