@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8"/>
+    <title>Display of detailed information</title>
+</head>
+<body>
+    <h1>Display of detailed information</h1>
+            
+    <p>
+        {%for i in range(0, alen)%}
+        <h2>The artist you are looking for:</h2>
+        <li>{{aname[i]}}</li>
+
+        <li>
+            Description: {{ades[i]}}</li><br/>
+
+
+        <li>Facebook:    {{afacebook[i]}}</li>
+
+        <li>Twitter:     {{atwitter[i]}}</li>
+           
+        
+        <img src="{{aimage[i]}}" width=300/> <br/>
+        
+
+        <a href="{{aurl[i]}}">See more..</a><br/><br/>
+
+        {% endfor %}
+    </p>
+    <p>
+        {% for i in range(0,slen)%}
+        <h2>The song you are looking for:</h2>
+        <li>{{sname[i]}}</li>
+
+        <li>
+            Description: {{sdes[i]}}</li><br/><br/>
+
+        <li>Lyric:    {{slyrics[i]}}</li><br/><br/>
+
+        <li>Release:     {{srelease[i]}}</li> <br/>
+        <a href="{{surl[i]}}">See more..</a><br/><br/>
+
+        {% endfor %}
+    </p>
+    
+</body>
+
+</html>
