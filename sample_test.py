@@ -1,15 +1,9 @@
 import requests
-import json
-import requests
-import webbrowser
-from lxml import etree
-import requests
 from bs4 import BeautifulSoup
 import os
 import json
 import time
 import sys
-import pandas as pd
 import re
 ##################################################################################
 ## basic settings

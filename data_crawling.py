@@ -1,5 +1,4 @@
 import json
-from lxml import etree
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -112,8 +111,19 @@ def get_artist_id(text, num = 0):
 
     
     return text['response']['sections'][0]['hits'][num]['result']['id']
-def get_song_id(text, num = 0):
-    return text['response']['hits'][num]['result']['id']
+def get_song_id(text, num = 10, all = False):
+    x = 0
+    if all == False:
+        
+        return [text['response']['hits'][num]['result']['id']]
+    else:
+        id_list = []
+        for result in text['response']['hits']:
+            if x > num : break
+            id_list.append(result['result']['id'])
+            x +=1
+        return id_list
+        
 def get_artist_api_path(text, num = 0):
 
     
